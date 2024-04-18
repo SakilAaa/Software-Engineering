@@ -1,3 +1,3 @@
-# Software-Engineering
+# Software-Engineering: Backend
 2024 春季软件工程项目：即时通讯系统  
 后端使用 Django 框架实现用户注册 / 登录 / 注销 / 信息编辑，用户间添加 / 删除好友 / 使用标签给好友分组，群聊创建 / 设置管理员 / 踢出成员等功能。
